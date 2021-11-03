@@ -1,8 +1,12 @@
-- 👋  Hi, I’m @thenocturnaldevgypsy
-- 👀  I’m interested in web development
-- 🌱  I’m currently learning (rather re-learning) front-end design such as HTML, CSS, Bootstrap and such. Maybe more, who knows...
-- 💞️  I’m looking to collaborate on bootstrap templates and such, we'll see?
-- 📫  How to reach me (not available at the moment, busy with a lot of stuffs until the end of the year 2021)
+- [x] me at the moment 👀
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
+</p>
 
 <!---
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
