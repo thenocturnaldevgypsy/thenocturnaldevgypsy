@@ -1,5 +1,5 @@
 <p>
-  Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring AI Text to Image Prompts (but I'm a Pen and Ink Illustrator too)
+  Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too)
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
