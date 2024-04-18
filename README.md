@@ -1,8 +1,6 @@
 # Ohayo, I'm Abby (@TheNocturnalDevGypsy since 2007)
 I'm kinda a Jill of all Trades: Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image Prompts (but I do Pen and Ink Illustrations too)
 
-![html5|30](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg)
-
 ### Web Design and Development, Databases and Environment
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="30" height="30" />
