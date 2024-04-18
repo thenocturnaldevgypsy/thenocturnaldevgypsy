@@ -26,8 +26,9 @@
   <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" alt="alicloud" width="30" height="30" />
 </p>
 
-### Project Management, Version Tracking/Control, Technical Documentation Tools
+### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design Tools
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/a/73/asana.svg" alt="asana" width="30" height="30" />
@@ -37,11 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="30" height="30" />
-</p>
-
-### UI/UX and Graphic Design
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="30" height="30" />
