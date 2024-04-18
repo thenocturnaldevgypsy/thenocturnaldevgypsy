@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="30" height="30" />
 </p>
 
-### Graphic Design, UI/UX
+### UI/UX and Graphic Design
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="30" height="30" />
