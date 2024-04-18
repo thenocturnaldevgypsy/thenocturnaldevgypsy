@@ -1,7 +1,7 @@
 
 
 <p>
-  Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too)
+  Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image Prompts (but I do Pen and Ink Illustrations too)
 </p>
 
 <p>
