@@ -25,7 +25,7 @@ I'm kinda a Jill of all Trades: Technical Project Manager | Technical Writer | B
 
 ### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="30" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/a/73/asana.svg" alt="asana" width="30" height="30" />
