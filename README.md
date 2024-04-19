@@ -32,6 +32,7 @@ I'm kinda a Jill of all Trades: Technical Project Manager | Technical Writer | B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/m/38/microsoft-visio.svg" alt="microsoft visio" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="30" height="30" />
+  <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="30" height="30" />
   <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="30" height="30" />
