@@ -2,6 +2,8 @@
 I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image Prompts (but I do Pen and Ink Illustrations too) | Ex-Academic Head of School of Computer Studies / Ex-College Professor
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
+
+![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg){:height="30px" width="30px"}
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="30" height="30" />
@@ -45,9 +47,6 @@ I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project M
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
-
-
-
 
 <!---
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
