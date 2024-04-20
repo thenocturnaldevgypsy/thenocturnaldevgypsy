@@ -43,7 +43,7 @@ I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="30" height="30" />
 </p>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
 
 
