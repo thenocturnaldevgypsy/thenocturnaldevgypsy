@@ -3,7 +3,7 @@ I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project M
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
 
-![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg){:height="30px" width="30px"}
+![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg){:height="30" width="30"}
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="30" height="30" />
