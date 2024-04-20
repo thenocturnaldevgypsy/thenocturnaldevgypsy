@@ -2,29 +2,27 @@
 I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image Prompts (but I do Pen and Ink Illustrations too) | Ex-Academic Head of School of Computer Studies / Ex-College Professor
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
-
-![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg){:height="30" width="30"}
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css3" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/f/80/fontawesome.svg" alt="fontawesome" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" alt="jquery" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-asp-color-red-icon.svg" alt="classic asp" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs code" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" alt="dreamweaver" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" alt="alicloud" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css3" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/f/80/fontawesome.svg" alt="fontawesome" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" alt="jquery" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-asp-color-red-icon.svg" alt="classic asp" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs code" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" alt="dreamweaver" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" alt="alicloud" width="25" height="25" />
 </p>
 
 ### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
