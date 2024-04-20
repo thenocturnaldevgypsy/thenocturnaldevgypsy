@@ -27,20 +27,20 @@ I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project M
 
 ### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
 <p>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/a/73/asana.svg" alt="asana" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/m/38/microsoft-visio.svg" alt="microsoft visio" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="30" height="30" />
-  <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="30" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/a/73/asana.svg" alt="asana" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/m/38/microsoft-visio.svg" alt="microsoft visio" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="25" height="25" />
+  <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="25" height="25" />
 </p>
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
