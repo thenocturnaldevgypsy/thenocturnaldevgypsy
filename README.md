@@ -43,6 +43,8 @@ I'm kinda your Jill of all Trades (the geek and creative side, that is): Technic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="20" height="20" />
 </p>
 
+<br>
+
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
 
