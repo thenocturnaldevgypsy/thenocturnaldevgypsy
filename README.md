@@ -43,7 +43,7 @@ I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="30" height="30" />
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&show_icons=github&theme=dark#gh-dark-mode-only)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&show_icons=true&theme=dark#gh-dark-mode-only\&rank_icon=github)]
 
 <!---
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
