@@ -1,7 +1,7 @@
 ## Ohayo, I'm Abby (@TheNocturnalDevGypsy since 2002)
 I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image Prompts (but I do Pen and Ink Illustrations too) | Ex-Academic Head of School of Computer Studies / Ex-College Professor
 
-### Programming, Web Design and Development, IDE, Databases and Environment
+### Programming, Web Design and Development, IDEs, Databases and Environment
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="30" height="30" />
@@ -43,9 +43,7 @@ I'm kinda your Jill of all (Geek and kinda Creative) Trades: Technical Project M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="30" height="30" />
 </p>
 
-<!---
-[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) 
---->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&show_icons=true&theme=transparent)
 
 <!---
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
