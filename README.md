@@ -1,5 +1,5 @@
 ## Ohayo, I'm Abby (@TheNocturnalDevGypsy since 2002)
-I'm kinda your Jill of all Trades (the geek and creative side, that is): Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image AI Prompts (but I do Pen and Ink Illustrations too)
+I'm kinda your Jill of all Trades (the geek and creative side, that is): Technical Project Manager | Technical Writer | Bootstrap Responsive Web Designer | Exploring Text to Image AI Prompts (but I do Pen and Ink Illustrations too).
 
 _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College Professor_
 
