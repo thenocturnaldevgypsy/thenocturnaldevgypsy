@@ -4,7 +4,6 @@ I'm kinda your Jill of all Trades (the geek and creative side, that is): Technic
 _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College Professor_
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
----
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="20" height="20" />
@@ -29,7 +28,6 @@ _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College 
 </p>
 
 ### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
----
 <p>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="20" height="20" />
   <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="20" height="20" />
