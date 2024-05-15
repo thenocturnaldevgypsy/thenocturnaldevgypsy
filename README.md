@@ -39,7 +39,7 @@ _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College 
   <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="20" height="20" />
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="20" height="20" />
-  <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="20" height="20" />
+ <!-- <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="20" height="20" />  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="20" height="20" />
