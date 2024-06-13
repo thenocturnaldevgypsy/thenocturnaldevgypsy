@@ -39,13 +39,14 @@ _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College 
   <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="20" height="20" />
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="20" height="20" />
- <!-- <img src="https://www.cdnlogo.com/logos/m/99/microsoft-office-powerpoint-2018-present.svg" alt="microsoft powerpoint" width="20" height="20" />  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="20" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="20" height="20" />
 </p>
 
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 | ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
