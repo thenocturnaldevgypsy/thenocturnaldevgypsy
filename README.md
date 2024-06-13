@@ -49,7 +49,7 @@ _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-| ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
+| ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
 
 
