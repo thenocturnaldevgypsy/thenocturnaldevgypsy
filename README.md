@@ -1,7 +1,7 @@
 ## Ohayo, I'm Abby (@TheNocturnalDevGypsy since 2002)
-I'm kinda your Jill of all Trades (the geek and creative side, that is): Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer and Exploring Text to Image AI Prompts (but I do Pen and Ink Illustrations too).  
+I'm kinda your Jill of all Trades (the geek and creative side, that is), currently as Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer and Exploring Text to Image AI Prompts (but I do Pen and Ink Illustrations too, it's being managed separated at `yaindigo.art`).  
 
-_P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College Professor_
+_P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College Professor, but at the moment I took some career break on that, might explore again in the future when I get older lol._
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
 <p>
@@ -49,11 +49,10 @@ _P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College 
 | ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
 
-<!---
-| ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
-| ------------- | ------------- |
 
 <!---
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
 --->
