@@ -1,7 +1,7 @@
 ## Ohayo... I'm Abby (@TheNocturnalDevGypsy since 2002)
 I'm kinda your Jill of all Trades (the geek and creative side, that is), currently as Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer and Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too, it's being managed separately at `https://yaindigo.art`).  
 
-_P.S. I was also an Ex-Academic Head of School of Computer Studies & Ex-College Professor, but temporarily `on-hiatus`, might explore again in the future when I get older lol._
+_P.S. I was also an Academic Head of School of Computer Studies & College Professor, but temporarily `on-hiatus`, might explore again in the future when I get older lol._
 
 I'm currently using GitHub for the following purposes:
 - Private repositories of my freelance work and projects when I apply for work.
