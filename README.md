@@ -4,9 +4,9 @@ I'm kinda your Jill of all Trades (the geek and creative side, that is), current
 _P.S. I was also an Academic Head of School of Computer Studies & College Professor, but temporarily `on-hiatus`, might explore again in the future when I get older lol._
 
 I'm currently using GitHub for the following purposes:
-- Private repositories of my freelance work and projects when I apply for work.
-- To share the codes that I've been using during my academe days, in which I call `DuskGrimoire` series.
-- To share the personal projects that I usually kept myself busy and making sure that my skillset are still up to date, in which I call `GypsyShards` series.
+- `GypsyShards` : a series of my public repos that contains my personal projects/exploration in designing and development, to kept myself busy and my skills up to date.
+- `DuskGrimoire` : a series of my public repos that contains source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015.
+- Private repositories of my freelance projects I'm working on.
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
 <p>
