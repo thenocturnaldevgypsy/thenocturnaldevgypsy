@@ -5,7 +5,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 
 I'm currently using GitHub for:
 - `GypsyShards` : free and open source templates of Link in Bio created using Bootstrap 5.3.3 (currently has 3 templates, active)
-- `DuskGrimoire` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
+- `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
