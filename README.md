@@ -60,8 +60,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="23" height="23" />
 </p> -->
 
-<br>
-
 #### ⚡ My Github Stats
 
 | ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
