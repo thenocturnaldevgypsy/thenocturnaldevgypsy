@@ -3,12 +3,13 @@ I'm kinda your Jill of all Trades (the geek and creative side, that is), current
 
 _P.S. I was also an Academic Head of School of Computer Studies & College Professor, but temporarily `on-hiatus`, might explore again in the future when I get older lol._
 
-I'm currently using GitHub for:
-- ![Static Badge](https://img.shields.io/badge/GypsyShards-active%2Fongoing-green) : free and open source templates of Link in Bio created using Bootstrap 5.3.3
+#### I'm currently using GitHub for
+![Static Badge](https://img.shields.io/badge/GypsyShards-active%2Fongoing-green)
+- Free and open source templates of Link in Bio created using Bootstrap 5.3.3
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
 
-### 💻 My Tech Stack
+#### 💻 My Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
