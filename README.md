@@ -8,7 +8,7 @@ I'm currently using GitHub for:
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
 
-#### 💻 Programming, Web Design and Development, IDEs, Databases and Environment
+#### 💻 My Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -21,10 +21,15 @@ I'm currently using GitHub for:
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
-<!-- <p>
+<!-- 
+#### 💻 Programming, Web Design and Development, IDEs, Databases and Environment
+<p>
   <img src="https://www.cdnlogo.com/logos/f/80/fontawesome.svg" alt="fontawesome" width="23" height="23" />
   <img src="https://avatars.githubusercontent.com/u/90905687?s=200&v=4" alt="lineicons" width="23" height="23" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-asp-color-red-icon.svg" alt="classic asp" width="23" height="23" />
@@ -32,9 +37,10 @@ I'm currently using GitHub for:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="23" height="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="23" height="23" />
-</p> -->
+</p> 
 
 #### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
+-->
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
