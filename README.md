@@ -1,4 +1,4 @@
-## Ohayo... I'm Abby (@TheNocturnalDevGypsy since 2002)
+### Ohayo... I'm Abby (@TheNocturnalDevGypsy since 2002)
 I'm kinda your Jill of all Trades (the geek and creative side, that is), currently as Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer and Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too, it's being managed separately at `https://yaindigo.art`).  
 
 _P.S. I was also an Academic Head of School of Computer Studies & College Professor, but temporarily `on-hiatus`, might explore again in the future when I get older lol._
@@ -19,6 +19,7 @@ I'm currently using GitHub for:
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
@@ -54,8 +55,6 @@ I'm currently using GitHub for:
   <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="23" height="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="canva" width="23" height="23" />
 </p> -->
 
 <br>
