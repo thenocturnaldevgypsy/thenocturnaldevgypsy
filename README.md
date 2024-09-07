@@ -8,7 +8,7 @@ I'm currently using GitHub for:
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
 
-### Programming, Web Design and Development, IDEs, Databases and Environment
+#### Programming, Web Design and Development, IDEs, Databases and Environment
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -34,7 +34,7 @@ I'm currently using GitHub for:
   <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="23" height="23" />
 </p> -->
 
-### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
+#### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
