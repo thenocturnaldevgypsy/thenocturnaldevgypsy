@@ -1,6 +1,6 @@
 ## Ohayo 👋, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-<img align="right" alt="coding.gif" style="border-radius:20px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="180" />
+<img align="right" alt="coding.gif" style="border-radius:20px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="220" />
 
 I'm kinda your Jill of all Trades (the geek and creative side, that is), currently as Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer and Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too, it's being managed separately at `https://yaindigo.art`).  
 
