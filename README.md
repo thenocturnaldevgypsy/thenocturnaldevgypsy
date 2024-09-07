@@ -8,7 +8,7 @@ I'm currently using GitHub for:
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
 
-#### Programming, Web Design and Development, IDEs, Databases and Environment
+#### 💻 Programming, Web Design and Development, IDEs, Databases and Environment
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
