@@ -62,11 +62,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 | ------------- | ------------- |
 
 <!---
-| ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true) |
-| ------------- | ------------- |
---->
-
-<!---
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
