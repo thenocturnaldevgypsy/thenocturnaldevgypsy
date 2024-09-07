@@ -9,6 +9,7 @@ I'm currently using GitHub for:
 - Private repositories of my freelance projects I'm working on.
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 <!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="23" height="23" />
