@@ -1,4 +1,4 @@
-### Ohayo 👋, I'm Abby (@TheNocturnalDevGypsy since 2002)
+## Ohayo 👋, I'm Abby (@TheNocturnalDevGypsy since 2002)
 I'm kinda your Jill of all Trades (the geek and creative side, that is), currently as Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer and Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too, it's being managed separately at `https://yaindigo.art`).  
 
 _P.S. I was also an Academic Head of School of Computer Studies & College Professor, but temporarily `on-hiatus`, might explore again in the future when I get older lol._
@@ -8,7 +8,7 @@ I'm currently using GitHub for:
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
 
-#### 💻 My Tech Stack
+### 💻 My Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
