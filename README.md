@@ -9,7 +9,8 @@ I'm currently using GitHub for:
 - Private repositories of my freelance projects I'm working on.
 
 ### Programming, Web Design and Development, IDEs, Databases and Environment
-<p>
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+<!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="23" height="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="23" height="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css3" width="23" height="23" />
@@ -32,7 +33,7 @@ I'm currently using GitHub for:
   <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="23" height="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="23" height="23" />
   <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" alt="alicloud" width="23" height="23" />
-</p>
+</p> -->
 
 ### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
 <p>
