@@ -61,6 +61,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Canva](https://img.shields.io/badge/Canva-+++-%23000000?logo=canva&logoColor=white&labelColor=%2300C4CC&color=white)
 ![Figma](https://img.shields.io/badge/Figma-++-%2300C4CC?logo=figma&logoColor=white&labelColor=%23202F3C&color=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-++-%2331A8FF?logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-++-%23000?logo=openai&logoColor=white&labelColor=%23232D36&color=white)
 
 
 
@@ -78,7 +79,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
   <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/m/38/microsoft-visio.svg" alt="microsoft visio" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="23" height="23" />
-  <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="23" height="23" />
 </p> -->
 
 #### ⚡ My Github Stats
