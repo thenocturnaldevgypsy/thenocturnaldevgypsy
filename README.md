@@ -2,10 +2,11 @@
 
 I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future.
 
-In my free time, I work on my own projects here at GitHub, Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too, it's being managed separately at `https://yaindigo.art`), Learning more about Crypto and NFTs.
+In my free time, I work on my own projects here at GitHub, Exploring AI Text to Image Prompts (but I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art)
+), Learning more about Crypto and NFTs.
 
 #### 👾 Me web-where...
-[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](http://www.thenocturnaldevgypsy.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=white)](https://beacons.ai/thenocturnaldevgypsy)
 [![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-181717?logo=github&logoColor=white&labelColor=181717&color=white)](https://github.com/thenocturnaldevgypsy)
