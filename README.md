@@ -7,6 +7,8 @@ In my free time, I work on my own projects here at GitHub, Exploring AI Text to 
 <!-- I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art). -->
 
 #### 👾 Me web-where...
+[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e&textColor=white)](https://www.thenocturnaldevgypsy.io)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=white)](https://beacons.ai/thenocturnaldevgypsy)
