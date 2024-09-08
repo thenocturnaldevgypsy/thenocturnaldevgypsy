@@ -25,7 +25,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
 #### 💻 My Tech Stack: from OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX, Graphic Design to AI
-![Windows](https://img.shields.io/badge/Windows-+++-%23079CFF?logo=windows&logoColor=white&labelColor=%23079CFF&color=white)
+![WindowsOS](https://img.shields.io/badge/WindowsOS-+++-%23079CFF?logo=windows&logoColor=white&labelColor=%23079CFF&color=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%233C3C3C?logo=apple&logoColor=white&labelColor=%233C3C3C&color=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-++-%23E95420?logo=ubuntu&logoColor=white&labelColor=%23E95420&color=white)
 ![AWS](https://img.shields.io/badge/AWS-++-%23FF9900?logo=amazon-web-services&logoColor=white&labelColor=%23FF9900&color=white)
@@ -56,7 +56,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Trello](https://img.shields.io/badge/Trello-++-%231F72E5?logo=trello&logoColor=white&labelColor=%231F72E5&color=white)
 
 
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
@@ -65,9 +64,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 <p>
   <img src="https://www.cdnlogo.com/logos/f/80/fontawesome.svg" alt="fontawesome" width="23" height="23" />
   <img src="https://avatars.githubusercontent.com/u/90905687?s=200&v=4" alt="lineicons" width="23" height="23" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-asp-color-red-icon.svg" alt="classic asp" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" alt="dreamweaver" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="23" height="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="23" height="23" />
 </p> 
