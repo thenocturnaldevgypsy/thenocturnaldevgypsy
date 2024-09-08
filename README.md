@@ -58,7 +58,16 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 ![Bing AI](https://img.shields.io/badge/Bing_AI-++-%2300A3E0?logo=microsoft&logoColor=white&labelColor=%2300A3E0&color=white)
 ![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300C4CC?logo=canva&logoColor=white&labelColor=%2300C4CC&color=white)
 
-#### 🚀 I'm currently using GitHub for
+#### 🚀 Aside the private repos of my freelance projects, I'm active with the following repos
+
+<a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio" />
+</a>
+<a href="https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=duskgrimoires-java-lab-exercises" />
+</a>
+
+
 - `GypsyShards` : Free and open source templates of Link in Bio created using Bootstrap 5.3.3 (active and ongoing),
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
