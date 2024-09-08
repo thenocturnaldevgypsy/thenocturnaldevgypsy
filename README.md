@@ -25,7 +25,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
 #### 💻 My Tech Stack
-![Java](https://img.shields.io/badge/Java-++-007396?logo=java&logoColor=white&labelColor=007396&color=white)
+![Java](https://img.shields.io/badge/Java-++-007396?logo=openjdka&logoColor=white&labelColor=007396&color=white)
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
