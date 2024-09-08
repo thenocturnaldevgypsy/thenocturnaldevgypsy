@@ -35,11 +35,12 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![JavaScript](https://img.shields.io/badge/JavaScript-++-%230FBD1F?logo=javascript&logoColor=white&labelColor=%230FBD1F&color=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-++-%234F5B93?logo=bootstrap&logoColor=white&labelColor=%234F5B93&color=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-++-%233D3D3D?logo=chartdotjs&logoColor=white&labelColor=%233D3D3D&color=white)
+![jQuery](https://img.shields.io/badge/jQuery-++-%230E76A8?logo=jquery&logoColor=white&labelColor=%230E76A8&color=white)
 
 
 
 
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
+
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
