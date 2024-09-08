@@ -12,15 +12,8 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 - Private repositories of my freelance projects I'm working on.
 
 #### 👾 Me elsewhere...
-![LinkedIn](https://img.shields.io/badge/LinkedIn-abegail--anne--nucup-e1e1e1?logo=linkedin&logoColor=white&labelColor=0A66C2&label=LinkedIn&color=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-abegail--anne--nucup-e1e1e1?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
 
-
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#)
 
 #### 💻 My Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
