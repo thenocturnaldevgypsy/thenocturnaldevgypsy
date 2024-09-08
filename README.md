@@ -7,14 +7,14 @@ In my free time, I work on my own projects here at GitHub, Exploring AI Text to 
 <!-- I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art). -->
 
 #### 👾 Me web-where...
-[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-#00416a?logo=airplayvideo&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://www.thenocturnaldevgypsy.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-#00416a?logo=linkedin&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://www.linkedin.com/in/abegail-torrendon/)
-[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-#00416a?logo=beacon&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://beacons.ai/thenocturnaldevgypsy)
-[![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-#00416a?logo=github&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://github.com/thenocturnaldevgypsy)
-[![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-#00416a?logo=instagram&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://www.instagram.com/nocturnal.indigo/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-#00416a?logo=mastodon&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://mastodon.social/@TheNocturnalDevGypsy)
-[![X](https://img.shields.io/badge/X-/nocturnalgypsy__-#00416a?logo=x&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](https://x.com/nocturnalgypsy_)
-[![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-#00416a?logo=maildotru&logoColor=white&labelColor=#00416a&color=#24292e&textColor=white)](mailto:i.am.abby@thenocturnaldevgypsy.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
+[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/thenocturnaldevgypsy)
+[![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://github.com/thenocturnaldevgypsy)
+[![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-%2300416a?logo=instagram&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.instagram.com/nocturnal.indigo/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-%2300416a?logo=mastodon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://mastodon.social/@TheNocturnalDevGypsy)
+[![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
+[![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e&textColor=white)](https://www.thenocturnaldevgypsy.io)
