@@ -51,10 +51,11 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![mySQL](https://img.shields.io/badge/mySQL-++-%234F5D7A?logo=mysql&logoColor=white&labelColor=%234F5D7A&color=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-++-%230C4A6A?logo=microsoft-sql-server&logoColor=white&labelColor=%230C4A6A&color=white)
 ![GitHub](https://img.shields.io/badge/GitHub-++-%23000?logo=github&logoColor=white&labelColor=%23000&color=white)
+![Jira](https://img.shields.io/badge/Jira-+++-%004B87?logo=jira&logoColor=white&labelColor=%004B87&color=white)
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
