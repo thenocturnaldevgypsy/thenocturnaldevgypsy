@@ -20,9 +20,10 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=white)](https://mastodon.social/@TheNocturnalDevGypsy)
 
 #### 💙 Support me @
-![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=white)
-![Uncut](https://img.shields.io/badge/Uncut-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)
-![Upwork](https://img.shields.io/badge/upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=white)](https://ko-fi.com/thenocturnaldevgypsy)
+[![Uncut](https://img.shields.io/badge/Uncut-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
+[![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
+
 
 #### 💻 My Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
