@@ -24,13 +24,12 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
-#### 💻 My Tech Stack: from OS and Envs, IDEs, Programming, DBs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
+#### 💻 My Tech Stack: from OS and Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX to Graphic Design
 ![Windows](https://img.shields.io/badge/Windows-+++-%23079CFF?logo=windows&logoColor=white&labelColor=%23079CFF&color=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%233C3C3C?logo=apple&logoColor=white&labelColor=%233C3C3C&color=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-++-%23E95420?logo=ubuntu&logoColor=white&labelColor=%23E95420&color=white)
 ![AWS](https://img.shields.io/badge/AWS-++-%23FF9900?logo=amazon-web-services&logoColor=white&labelColor=%23FF9900&color=white)
 ![AlibabaCloud](https://img.shields.io/badge/AlibabaCloud-++-%23FF6A00?logo=alibaba-cloud&logoColor=white&labelColor=%23FF6A00&color=white)
-
 ![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
@@ -51,11 +50,10 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![PHP](https://img.shields.io/badge/PHP-++-%23777777?logo=php&logoColor=white&labelColor=%23777BB4&color=white)
 ![mySQL](https://img.shields.io/badge/mySQL-++-%234F5D7A?logo=mysql&logoColor=white&labelColor=%234F5D7A&color=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-++-%230C4A6A?logo=microsoft-sql-server&logoColor=white&labelColor=%230C4A6A&color=white)
+![GitHub](https://img.shields.io/badge/GitHub-++-%23000?logo=github&logoColor=white&labelColor=%23000&color=white)
 
 
 
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
