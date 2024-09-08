@@ -16,17 +16,12 @@ In my free time, I work on my own projects here at GitHub, Exploring AI Text to 
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e&textColor=white)](https://www.thenocturnaldevgypsy.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=%2324292e&textColor=white)](https://www.linkedin.com/in/abegail-torrendon/)
-[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=%2324292e&textColor=white)](https://beacons.ai/thenocturnaldevgypsy)
-[![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-181717?logo=github&logoColor=white&labelColor=181717&color=%2324292e&textColor=white)](https://github.com/thenocturnaldevgypsy)
-[![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-E1306C?logo=instagram&logoColor=white&labelColor=E1306C&color=%2324292e&textColor=white)](https://www.instagram.com/nocturnal.indigo/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=%2324292e&textColor=white)](https://mastodon.social/@TheNocturnalDevGypsy)
-[![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%231D9BF0?logo=x&logoColor=white&labelColor=%231D9BF0&color=%2324292e&textColor=white)](https://x.com/nocturnalgypsy_)
-[![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300008B?logo=maildotru&logoColor=white&labelColor=%2300008B&color=%2324292e&textColor=white)](mailto:i.am.abby@thenocturnaldevgypsy.io)
-
 #### 💙 Support me!
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
+[![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-%2300416a?logo=uncut&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://uncut.network/user/4296077072)
+[![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
+
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=%2324292e&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=%2324292e&textColor=white)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=%2324292e&textColor=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
