@@ -1,8 +1,6 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-<img align="right" alt="coding.gif" style="border-radius:20px;margin-left:10px;" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" />
-
-I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer. I was also an Academic Head of School of Computer Studies & College Professor, but temporarily `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub and Exploring AI Text to Image Prompts.
+I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub, Exploring AI Text to Image Prompts and Learning more about Blockchain.
 
 #### I'm currently using GitHub for
 - `GypsyShards` : Free and open source templates of Link in Bio created using Bootstrap 5.3.3 (active and ongoing),
