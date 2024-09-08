@@ -12,7 +12,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 - Private repositories of my freelance projects I'm working on.
 
 #### 👾 Me web-where...
-![Portfolio](https://img.shields.io/badge/Portfolio-www.thenocturnaldevgypsy.io-00416a?logo=web&logoColor=white&labelColor=00416a&color=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=web&logoColor=white&labelColor=00416a&color=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
 ![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=white)
