@@ -34,7 +34,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Markdown](https://img.shields.io/badge/Markdown-++-%23000000?logo=markdown&logoColor=white&labelColor=%23000000&color=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-++-%230FBD1F?logo=javascript&logoColor=white&labelColor=%230FBD1F&color=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-++-%234F5B93?logo=bootstrap&logoColor=white&labelColor=%234F5B93&color=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-++-%233D3D3D?logo=chartjs&logoColor=white&labelColor=%233D3D3D&color=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-++-%233D3D3D?logo=chartdotjs&logoColor=white&labelColor=%233D3D3D&color=white)
 
 
 
