@@ -31,12 +31,11 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Java](https://img.shields.io/badge/Java-++-007396?logo=openjdk&logoColor=white&labelColor=007396&color=white)
 ![HTML](https://img.shields.io/badge/HTML-+++-%23E34F26?logo=html5&logoColor=white&labelColor=%23E34F26&color=white)
 ![CSS](https://img.shields.io/badge/CSS-+++-%231572B6?logo=css3&logoColor=white&labelColor=%231572B6&color=white)
+![Markdown](https://img.shields.io/badge/Markdown-++-%23000000?logo=markdown&logoColor=white&labelColor=%23000000&color=white)
 
 
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
