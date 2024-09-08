@@ -24,7 +24,11 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
-#### 💻 My Tech Stack: from Programming, IDEs, DBs, Envs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
+#### 💻 My Tech Stack: from IDEs, Env, Programming, DBs, Envs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++-%23FF61F6?logo=adobedreamweaver&logoColor=white&labelColor=%23FF61F6&color=white)
+![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
 ![Pascal](https://img.shields.io/badge/Pascal-++-%232C2C2C?logo=pascal&logoColor=white&labelColor=%232C2C2C&color=white)
 ![C](https://img.shields.io/badge/C-++-%2300599C?logo=c&logoColor=white&labelColor=%2300599C&color=white)
 ![C++](https://img.shields.io/badge/C++-++-%2300599C?logo=cplusplus&logoColor=white&labelColor=%2300599C&color=white)
@@ -39,10 +43,8 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Node.js](https://img.shields.io/badge/Node.js-++-%234F8C2F?logo=node.js&logoColor=white&labelColor=%234F8C2F&color=white)
 ![ASP](https://img.shields.io/badge/ASP-++-%233E7BB6?logo=classic-asp&logoColor=white&labelColor=%233E7BB6&color=white)
 ![PHP](https://img.shields.io/badge/PHP-++-%23777777?logo=php&logoColor=white&labelColor=%23777BB4&color=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
-![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++-%23FF61F6?logo=adobedreamweaver&logoColor=white&labelColor=%23FF61F6&color=white)
-![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
+
+
 
 
 
