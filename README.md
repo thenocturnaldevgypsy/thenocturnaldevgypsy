@@ -51,7 +51,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![mySQL](https://img.shields.io/badge/mySQL-++-%234F5D7A?logo=mysql&logoColor=white&labelColor=%234F5D7A&color=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-++-%230C4A6A?logo=microsoft-sql-server&logoColor=white&labelColor=%230C4A6A&color=white)
 ![GitHub](https://img.shields.io/badge/GitHub-++-%23000?logo=github&logoColor=white&labelColor=%23000&color=white)
-![Jira](https://img.shields.io/badge/Jira-+++-%2300052D?logo=jira&logoColor=white&labelColor=%2300052D&color=white)
+![Jira](https://img.shields.io/badge/Jira-+++-%23003c71?logo=jira&logoColor=white&labelColor=%23003c71&color=white)
 ![Asana](https://img.shields.io/badge/Asana-+++-%235C2D91?logo=asana&logoColor=white&labelColor=%235C2D91&color=white)
 ![Trello](https://img.shields.io/badge/Trello-++-%231F72E5?logo=trello&logoColor=white&labelColor=%231F72E5&color=white)
 ![Notion](https://img.shields.io/badge/Notion-++-%23000000?logo=notion&logoColor=white&labelColor=%23000000&color=white)
