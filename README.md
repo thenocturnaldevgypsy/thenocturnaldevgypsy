@@ -26,6 +26,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 
 #### 💻 My Tech Stack
 ![C](https://img.shields.io/badge/C-++-%2300599C?logo=c&logoColor=white&labelColor=%2300599C&color=white)
+![C++](https://img.shields.io/badge/C++-++-%2300599C?logo=cplusplus&logoColor=white&labelColor=%2300599C&color=white)
 ![Java](https://img.shields.io/badge/Java-++-007396?logo=openjdk&logoColor=white&labelColor=007396&color=white)
 ![HTML](https://img.shields.io/badge/HTML-+++-%23E34F26?logo=html5&logoColor=white&labelColor=%23E34F26&color=white)
 ![CSS](https://img.shields.io/badge/CSS-+++-%231572B6?logo=css3&logoColor=white&labelColor=%231572B6&color=white)
