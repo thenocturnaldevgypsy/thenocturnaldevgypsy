@@ -12,13 +12,13 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 - Private repositories of my freelance projects I'm working on.
 
 #### 👾 My Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-e1e1e1?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
+![Me @ LinkedIn](https://img.shields.io/badge/Me%20@%20LinkedIn-/in/abegail--torrendon/-e1e1e1?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
+
 
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#)
 
