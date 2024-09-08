@@ -37,9 +37,9 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Chart.js](https://img.shields.io/badge/Chart.js-++-%233D3D3D?logo=chartdotjs&logoColor=white&labelColor=%233D3D3D&color=white)
 ![jQuery](https://img.shields.io/badge/jQuery-++-%230E76A8?logo=jquery&logoColor=white&labelColor=%230E76A8&color=white)
 ![Node.js](https://img.shields.io/badge/Node.js-++-%234F8C2F?logo=node.js&logoColor=white&labelColor=%234F8C2F&color=white)
+![PHP](https://img.shields.io/badge/PHP-++-%23777777?logo=php&logoColor=white&labelColor=%23777777&color=white)
 
 
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
