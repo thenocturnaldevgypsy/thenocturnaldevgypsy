@@ -65,24 +65,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Bing AI](https://img.shields.io/badge/Bing_AI-++-%2300A3E0?logo=microsoft&logoColor=white&labelColor=%2300A3E0&color=white)
 ![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300C4CC?logo=canva&logoColor=white&labelColor=%2300C4CC&color=white)
 
-
-
-<!-- 
-#### 💻 Programming, Web Design and Development, IDEs, Databases and Environment
-<p>
-  <img src="https://www.cdnlogo.com/logos/f/80/fontawesome.svg" alt="fontawesome" width="23" height="23" />
-  <img src="https://avatars.githubusercontent.com/u/90905687?s=200&v=4" alt="lineicons" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="23" height="23" />
-  <img src="https://www.cdnlogo.com/logos/w/40/windows-server-2.svg" alt="windows server" width="23" height="23" />
-</p> 
-
-#### Project Management, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
-<p>
-  <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="23" height="23" />
-  <img src="https://www.cdnlogo.com/logos/m/38/microsoft-visio.svg" alt="microsoft visio" width="23" height="23" />
-  <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="23" height="23" />
-</p> -->
-
 #### ⚡ My Github Stats
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" />
 
