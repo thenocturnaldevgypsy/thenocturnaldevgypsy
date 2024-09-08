@@ -13,7 +13,8 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 
 #### 👾 Me elsewhere...
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
-![Instagram](https://img.shields.io/badge/Instagram-@nocturnal.indigo-4A4A4A?logo=instagram&logoColor=white&labelColor=E1306C&color=white)
+![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-4A4A4A?logo=instagram&logoColor=white&labelColor=E1306C&color=white)
+
 
 
 
