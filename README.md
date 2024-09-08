@@ -56,6 +56,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Trello](https://img.shields.io/badge/Trello-++-%231F72E5?logo=trello&logoColor=white&labelColor=%231F72E5&color=white)
 ![Notion](https://img.shields.io/badge/Notion-++-%23000000?logo=notion&logoColor=white&labelColor=%23000000&color=white)
 ![Confluence](https://img.shields.io/badge/Confluence-++-%23003c71?logo=confluence&logoColor=white&labelColor=%23003c71&color=white)
+![Canva](https://img.shields.io/badge/Canva-+++-%23000000?logo=canva&logoColor=white&labelColor=%2300C4CC&color=white)
 
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
@@ -74,9 +75,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 <p>
   <img src="https://www.cdnlogo.com/logos/m/48/microsoft-project-2019-present.svg" alt="microsoft project" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/m/38/microsoft-visio.svg" alt="microsoft visio" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/m/94/microsoft-sharepoint.svg" alt="sharepoint" width="23" height="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="23" height="23" />
   <img src="https://www.cdnlogo.com/logos/w/93/wikia.svg" alt="wikia" width="23" height="23" />
 </p> -->
 
