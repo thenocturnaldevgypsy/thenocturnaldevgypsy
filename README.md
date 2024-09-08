@@ -25,6 +25,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
 #### 💻 My Tech Stack: from OS and Envs, IDEs, Programming, DBs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
+![Windows](https://img.shields.io/badge/Windows-+++-%23079CFF?logo=windows&logoColor=white&labelColor=%23079CFF&color=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%233C3C3C?logo=apple&logoColor=white&labelColor=%233C3C3C&color=white)
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
