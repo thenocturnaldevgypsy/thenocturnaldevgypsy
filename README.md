@@ -1,10 +1,10 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Front-End Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future.
+I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Old School Full-Stack Developer (re-learning everything about Frontend and Backend technologies). I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future.
 
-In my free time, I work on my own projects here at GitHub to refresh/update my skills as I'm targetting to be a Full Stack Developer again, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
+In my free time, I work on my own projects here at GitHub to refresh/update my skills, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
 
-<!-- I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art). -->
+:octocat: Fun Fact: I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art)
 
 #### 👾 Me web-where...
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
@@ -16,7 +16,7 @@ In my free time, I work on my own projects here at GitHub to refresh/update my s
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
-#### 💙 Support me!
+#### 💙 Support me! Aside starring some of the repositories!
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-%2300416a?logo=uncut&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
