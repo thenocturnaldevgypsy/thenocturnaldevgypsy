@@ -54,6 +54,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Jira](https://img.shields.io/badge/Jira-+++-%2300052D?logo=jira&logoColor=white&labelColor=%2300052D&color=white)
 ![Asana](https://img.shields.io/badge/Asana-+++-%235C2D91?logo=asana&logoColor=white&labelColor=%235C2D91&color=white)
 ![Trello](https://img.shields.io/badge/Trello-++-%231F72E5?logo=trello&logoColor=white&labelColor=%231F72E5&color=white)
+![Notion](https://img.shields.io/badge/Notion-++-%23000000?logo=notion&logoColor=white&labelColor=%23000000&color=white)
 
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
