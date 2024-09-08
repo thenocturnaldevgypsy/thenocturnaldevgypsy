@@ -4,7 +4,7 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 
 In my free time, I work on my own projects here at GitHub, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
 
-I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art).
+<!-- I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art). -->
 
 #### 👾 Me web-where...
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.thenocturnaldevgypsy.io)
