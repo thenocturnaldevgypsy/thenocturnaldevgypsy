@@ -62,6 +62,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Figma](https://img.shields.io/badge/Figma-++-%2300C4CC?logo=figma&logoColor=white&labelColor=%23202F3C&color=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-++-%2331A8FF?logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-++-%23000?logo=openai&logoColor=white&labelColor=%23232D36&color=white)
+![Bing AI](https://img.shields.io/badge/Bing_AI-++-%2300A3E0?logo=microsoft&logoColor=white&labelColor=%2300A3E0&color=white)
 
 
 
