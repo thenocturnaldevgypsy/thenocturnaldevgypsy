@@ -10,10 +10,10 @@ In my free time, I work on my own projects here at GitHub, Exploring AI Text to 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e&textColor=white)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=%2324292e&textColor=white)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=%2324292e&textColor=white)](https://beacons.ai/thenocturnaldevgypsy)
+[![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-181717?logo=github&logoColor=white&labelColor=181717&color=%2324292e&textColor=white)](https://github.com/thenocturnaldevgypsy)
 
 
 
-[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=white)](https://beacons.ai/thenocturnaldevgypsy)
 [![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-181717?logo=github&logoColor=white&labelColor=181717&color=white)](https://github.com/thenocturnaldevgypsy)
 [![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-4A4A4A?logo=instagram&logoColor=white&labelColor=E1306C&color=white)](https://www.instagram.com/nocturnal.indigo/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=white)](https://mastodon.social/@TheNocturnalDevGypsy)
