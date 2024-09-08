@@ -12,9 +12,8 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 - Private repositories of my freelance projects I'm working on.
 
 #### 👾 Me elsewhere...
-![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-e1e1e1?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-abegail--anne--nucup-e1e1e1?logo=linkedin&logoColor=white&labelColor=0A66C2&label=LinkedIn&color=white)
 
-![Instagram](https://img.shields.io/badge/Instagram-@nocturnal.indigo-e1e1e1?logo=instagram&logoColor=white&labelColor=E1306C&color=white)
 
 
 
