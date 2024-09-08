@@ -19,6 +19,11 @@ In my free time, I work on my own projects here at GitHub, Exploring AI Text to 
 #### 💙 Support me!
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=%2324292e&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=%2324292e&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
+[![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=%2324292e&textColor=white)](https://uncut.network/user/4296077072)
+[![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=%2324292e&textColor=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
+
+
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=white)](https://ko-fi.com/thenocturnaldevgypsy)
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
