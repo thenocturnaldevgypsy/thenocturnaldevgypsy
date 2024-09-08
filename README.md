@@ -1,8 +1,8 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, Bootstrap Responsive Web Designer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future.
+I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Front End Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future.
 
-In my free time, I work on my own projects here at GitHub, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
+In my free time, I work on my own projects here at GitHub to refresh/update my skills as I'm targetting to be a Full Stack Developer again, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
 
 <!-- I do Pen and Ink Illustrations too, it's being managed separately at [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-00416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=white)](https://www.yaindigo.art). -->
 
