@@ -39,7 +39,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Node.js](https://img.shields.io/badge/Node.js-++-%234F8C2F?logo=node.js&logoColor=white&labelColor=%234F8C2F&color=white)
 ![ASP](https://img.shields.io/badge/ASP-++-%233E7BB6?logo=classic-asp&logoColor=white&labelColor=%233E7BB6&color=white)
 ![PHP](https://img.shields.io/badge/PHP-++-%23777777?logo=php&logoColor=white&labelColor=%23777BB4&color=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-++-%230A66C2?logo=visual-studio-code&logoColor=white&labelColor=%230A66C2&color=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-++-%230A66C2?logo=vsc&logoColor=white&labelColor=%230A66C2&color=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
 
 ![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
