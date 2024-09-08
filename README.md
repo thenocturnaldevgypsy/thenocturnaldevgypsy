@@ -12,6 +12,11 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%231D9BF0?logo=x&logoColor=white&labelColor=%231D9BF0&color=white)](https://x.com/nocturnalgypsy_)
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300008B?logo=maildotru&logoColor=white&labelColor=%2300008B&color=white)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
+#### 💙 Support me @
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=white)](https://ko-fi.com/thenocturnaldevgypsy)
+[![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
+[![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
+
 #### 💻 My Tech Stack: from OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX, Graphic Design to AI
 ![WindowsOS](https://img.shields.io/badge/WindowsOS-+++-%23079CFF?logo=windows&logoColor=white&labelColor=%23079CFF&color=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%233C3C3C?logo=apple&logoColor=white&labelColor=%233C3C3C&color=white)
@@ -57,11 +62,6 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 - `GypsyShards` : Free and open source templates of Link in Bio created using Bootstrap 5.3.3 (active and ongoing),
 - `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
 - Private repositories of my freelance projects I'm working on.
-
-#### 💙 Support me @
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=white)](https://ko-fi.com/thenocturnaldevgypsy)
-[![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
-[![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
 #### ⚡ My Github Stats
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" />
