@@ -57,6 +57,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Notion](https://img.shields.io/badge/Notion-++-%23000000?logo=notion&logoColor=white&labelColor=%23000000&color=white)
 ![Confluence](https://img.shields.io/badge/Confluence-++-%23003c71?logo=confluence&logoColor=white&labelColor=%23003c71&color=white)
 ![Canva](https://img.shields.io/badge/Canva-+++-%23000000?logo=canva&logoColor=white&labelColor=%2300C4CC&color=white)
+![Figma](https://img.shields.io/badge/Figma-++-%2300C4CC?logo=figma&logoColor=white&labelColor=%23202F3C&color=white)
 
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
