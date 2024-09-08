@@ -19,7 +19,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-4A4A4A?logo=instagram&logoColor=white&labelColor=E1306C&color=white)](https://www.instagram.com/nocturnal.indigo/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=white)](https://mastodon.social/@TheNocturnalDevGypsy)
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%231D9BF0?logo=x&logoColor=white&labelColor=%231D9BF0&color=white)](https://x.com/nocturnalgypsy_)
-![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300008B?logo=maildotru&logoColor=white&labelColor=%2300008B&color=white)
+[![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300008B?logo=maildotru&logoColor=white&labelColor=%2300008B&color=white)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
 
 #### 💙 Support me @
