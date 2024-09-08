@@ -1,4 +1,4 @@
-## Ohayo 👋, I'm Abby (@TheNocturnalDevGypsy since 2002)
+## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
 <!-- <img align="right" alt="coding.gif" style="border-radius:20px;margin-left:10px;" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="380" /> -->
 
