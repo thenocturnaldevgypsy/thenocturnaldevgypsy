@@ -46,14 +46,10 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Node.js](https://img.shields.io/badge/Node.js-++-%234F8C2F?logo=node.js&logoColor=white&labelColor=%234F8C2F&color=white)
 ![ASP](https://img.shields.io/badge/ASP-++-%233E7BB6?logo=classic-asp&logoColor=white&labelColor=%233E7BB6&color=white)
 ![PHP](https://img.shields.io/badge/PHP-++-%23777777?logo=php&logoColor=white&labelColor=%23777BB4&color=white)
+![mySQL](https://img.shields.io/badge/mySQL-++-%234F5D7A?logo=mysql&logoColor=white&labelColor=%234F5D7A&color=white)
 
 
 
-
-
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
