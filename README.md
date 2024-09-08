@@ -51,7 +51,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![mySQL](https://img.shields.io/badge/mySQL-++-%234F5D7A?logo=mysql&logoColor=white&labelColor=%234F5D7A&color=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-++-%230C4A6A?logo=microsoft-sql-server&logoColor=white&labelColor=%230C4A6A&color=white)
 ![GitHub](https://img.shields.io/badge/GitHub-++-%23000?logo=github&logoColor=white&labelColor=%23000&color=white)
-![Jira](https://img.shields.io/badge/Jira-+++-%2300052D?logo=atlassian&logoColor=white&labelColor=%2300052D&color=white)
+![Jira](https://img.shields.io/badge/Jira-+++-%2300052CC?logo=jira&logoColor=white&labelColor=%2300052D&color=white)
 
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
