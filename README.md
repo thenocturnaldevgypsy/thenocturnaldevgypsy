@@ -24,7 +24,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
-#### 💻 My Tech Stack
+#### 💻 My Tech Stack: from Programming, Web Development, IDEs, Databases, Environment,Project Management Tools, Version Tracking/Control, Technical Documentation, UI/UX and Graphic Design
 ![Pascal](https://img.shields.io/badge/Pascal-++-%232C2C2C?logo=pascal&logoColor=white&labelColor=%232C2C2C&color=white)
 ![C](https://img.shields.io/badge/C-++-%2300599C?logo=c&logoColor=white&labelColor=%2300599C&color=white)
 ![C++](https://img.shields.io/badge/C++-++-%2300599C?logo=cplusplus&logoColor=white&labelColor=%2300599C&color=white)
@@ -43,7 +43,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 
 
 
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
