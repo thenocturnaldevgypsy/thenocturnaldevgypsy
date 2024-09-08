@@ -27,11 +27,11 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 #### 💻 My Tech Stack: from OS and Envs, IDEs, Programming, DBs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
 ![Windows](https://img.shields.io/badge/Windows-+++-%23079CFF?logo=windows&logoColor=white&labelColor=%23079CFF&color=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%233C3C3C?logo=apple&logoColor=white&labelColor=%233C3C3C&color=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-++-%23E95420?logo=ubuntu&logoColor=white&labelColor=%23E95420&color=white)
+![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++-%23FF61F6?logo=adobedreamweaver&logoColor=white&labelColor=%23FF61F6&color=white)
-![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
 ![Pascal](https://img.shields.io/badge/Pascal-++-%232C2C2C?logo=pascal&logoColor=white&labelColor=%232C2C2C&color=white)
 ![C](https://img.shields.io/badge/C-++-%2300599C?logo=c&logoColor=white&labelColor=%2300599C&color=white)
 ![C++](https://img.shields.io/badge/C++-++-%2300599C?logo=cplusplus&logoColor=white&labelColor=%2300599C&color=white)
