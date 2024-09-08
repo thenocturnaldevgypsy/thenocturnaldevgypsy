@@ -24,7 +24,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-4A8F3D?logo=upwork&logoColor=white&labelColor=4A8F3D&color=white)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
-#### 💻 My Tech Stack: from IDEs, Env, Programming, DBs, Envs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
+#### 💻 My Tech Stack: from OS and Envs, IDEs, Env, Programming, DBs, PM Tools, Source Control, Documentation, UI/UX to Graphic Design
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++-%23FF61F6?logo=adobedreamweaver&logoColor=white&labelColor=%23FF61F6&color=white)
