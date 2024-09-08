@@ -41,7 +41,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![PHP](https://img.shields.io/badge/PHP-++-%23777777?logo=php&logoColor=white&labelColor=%23777BB4&color=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
-![Dreamweaver](https://img.shields.io/badge/Dreamweaver-++-00A3E0?logo=adobe&logoColor=white&labelColor=00A3E0&color=white)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++--FF61F6?logo=adobedreamweaver&logoColor=white&labelColor=FF61F6&color=white)
 ![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
 
 
