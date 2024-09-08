@@ -31,12 +31,12 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 ![Dynamic365](https://img.shields.io/badge/Dynamic365-++-%230B7A75?logo=microsoft-dynamics&logoColor=white&labelColor=%230B7A75&color=white)
 ![AWS](https://img.shields.io/badge/AWS-++-%23FF9900?logo=amazon-web-services&logoColor=white&labelColor=%23FF9900&color=white)
 ![AlibabaCloud](https://img.shields.io/badge/AlibabaCloud-++-%23FF6A00?logo=alibaba-cloud&logoColor=white&labelColor=%23FF6A00&color=white)
-![Firefox](https://img.shields.io/badge/Firefox-++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
+![Firefox](https://img.shields.io/badge/Firefox-+++-%23FF7139?logo=firefox&logoColor=white&labelColor=%23FF7139&color=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=0A66C2&color=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-++-%232D2D2D?logo=eclipse&logoColor=white&labelColor=%232D2D2D&color=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++-%23FF61F6?logo=adobedreamweaver&logoColor=white&labelColor=%23FF61F6&color=white)
-![Pascal](https://img.shields.io/badge/Pascal-++-%232C2C2C?logo=pascal&logoColor=white&labelColor=%232C2C2C&color=white)
-![C](https://img.shields.io/badge/C-++-%2300599C?logo=c&logoColor=white&labelColor=%2300599C&color=white)
+![Pascal](https://img.shields.io/badge/Pascal-+-%232C2C2C?logo=pascal&logoColor=white&labelColor=%232C2C2C&color=white)
+![C](https://img.shields.io/badge/C-+-%2300599C?logo=c&logoColor=white&labelColor=%2300599C&color=white)
 ![C++](https://img.shields.io/badge/C++-++-%2300599C?logo=cplusplus&logoColor=white&labelColor=%2300599C&color=white)
 ![Java](https://img.shields.io/badge/Java-++-007396?logo=openjdk&logoColor=white&labelColor=007396&color=white)
 ![HTML](https://img.shields.io/badge/HTML-+++-%23E34F26?logo=html5&logoColor=white&labelColor=%23E34F26&color=white)
@@ -69,9 +69,6 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" />
 
 <!---
-| ![TheNocturnalDevGypsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20) |
-| ------------- | ------------- |
-
 thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
