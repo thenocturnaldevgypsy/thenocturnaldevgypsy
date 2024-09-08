@@ -13,7 +13,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 
 #### 👾 Me web-where...
 [![WWW](https://img.shields.io/badge/WWW-thenocturnaldevgypsy.io-00416a?logo=link&logoColor=white&labelColor=00416a&color=white)](http://www.thenocturnaldevgypsy.io)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)](https://www.linkedin.com/in/abegail-torrendon/)
 ![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=white)
 ![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-4A4A4A?logo=instagram&logoColor=white&labelColor=E1306C&color=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=white)
