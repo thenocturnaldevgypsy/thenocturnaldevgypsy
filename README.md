@@ -60,7 +60,7 @@ In my free time, I work on my own projects here at GitHub, Exploring AI Text to 
 ![Bing AI](https://img.shields.io/badge/Bing_AI-++-%2300A3E0?logo=microsoft&logoColor=white&labelColor=%2300A3E0&color=white)
 ![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300C4CC?logo=canva&logoColor=white&labelColor=%2300C4CC&color=white)
 
-#### 🚀 Aside the private repos of my freelance projects, I'm active with the following repos
+#### 🚀 My active repos at Github (aside the private repos for work)
 
 <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=duskgrimoires-java-lab-exercises&theme=transparent&hide_border=true" /></a>
 
