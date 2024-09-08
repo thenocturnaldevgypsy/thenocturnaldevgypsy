@@ -67,11 +67,6 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=duskgrimoires-java-lab-exercises&theme=transparent&hide_border=true" />
 </a>
 
-
-- `GypsyShards` : Free and open source templates of Link in Bio created using Bootstrap 5.3.3 (active and ongoing),
-- `DuskGrimoires` : Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015 (on-going retrieving the codes and rearranging the repo)
-- Private repositories of my freelance projects I'm working on.
-
 #### ⚡ My Github Stats
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" />
 
