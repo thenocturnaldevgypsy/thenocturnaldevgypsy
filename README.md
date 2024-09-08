@@ -14,6 +14,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 #### 👾 Me web-where...
 ![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-4A4A4A?logo=kofi&logoColor=white&labelColor=FF5E5B&color=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon/-4A4A4A?logo=linkedin&logoColor=white&labelColor=0A66C2&color=white)
+![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-FF6F61?logo=beacon&logoColor=white&labelColor=FF6F61&color=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-4A4A4A?logo=mastodon&logoColor=white&labelColor=4A4A4A&color=white)
 ![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-4A4A4A?logo=instagram&logoColor=white&labelColor=E1306C&color=white)
 ![Uncut](https://img.shields.io/badge/Uncut-/user/4296077072-FBDF6F?logo=uncut&logoColor=white&labelColor=FBDF6F&color=white)
