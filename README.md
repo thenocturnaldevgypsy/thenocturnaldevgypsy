@@ -66,7 +66,7 @@ _P.S. I was also an Academic Head of School of Computer Studies & College Profes
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20&card_width=300" />
 
 
 <!---
