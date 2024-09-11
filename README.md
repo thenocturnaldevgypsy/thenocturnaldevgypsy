@@ -1,7 +1,7 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
 - :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
-- ⚗️ : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
+- 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
 - 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
 
 ## ![SECTION Fun Fact](https://img.shields.io/badge/💀-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
