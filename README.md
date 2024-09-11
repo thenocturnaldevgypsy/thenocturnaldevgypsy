@@ -2,11 +2,12 @@
 
 I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Full-Stack Developer (re-learning everything about Frontend and Backend technologies ATM). I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub to refresh/update my skills, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
 
-#### :octocat: Fun Fact! I do Pen and Ink Illustrations too, it's being managed separately at
+## ![SECTION Fun Fact](https://img.shields.io/badge/🎨-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/yaIndigo.art-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/yaindigo.art)
 
-#### 👾  Me else(web)where...
+## ![SECTION Me else(web)where...](https://img.shields.io/badge/👾-%20Me%20else%28web%29where...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/thenocturnaldevgypsy)
@@ -16,12 +17,15 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
-#### 💙 Support me! Aside :star2:ring some of the repositories!
+## ![SECTION Support me!](https://img.shields.io/badge/💙-Support%20me!%20Aside%20🌟,%20👁️,%20🔱%20and%20❤️%20some%20of%20the%20repos!-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-%2300416a?logo=uncut&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
-#### 💻 My Tech Stack: from OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX, Graphic Design to AI
+## ![SECTION My Tech Stack](https://img.shields.io/badge/💻-My%20Tech%20Stack-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+From OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX, Graphic Design to AI
+
 ![WindowsOS](https://img.shields.io/badge/WindowsOS-+++-%2300416a?logo=windows&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%2300416a?logo=apple&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-++-%2300416a?logo=ubuntu&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
@@ -62,8 +66,9 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 ![Bing AI](https://img.shields.io/badge/Bing_AI-++-%2300416a?logo=microsoft&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-#### 🚀 My active public repos at Github
+## ![SECTION My active public repos at Github](https://img.shields.io/badge/🚀-My%20active%20public%20repos%20at%20Github-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 <a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
 
-#### ⚡ My Github Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" />
+## ![SECTION My Github Stats](https://img.shields.io/badge/⚡-My%20Github%20Stats-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+<img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" /> <img width="300" aligh="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true" alt="TheNocturnalDevGypsy's WakaTime stats">
+</a>
