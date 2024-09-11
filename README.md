@@ -4,7 +4,7 @@
 - ⚗️ : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
 - 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
 
-## ![SECTION Fun Fact](https://img.shields.io/badge/👩‍🎨🎨-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Fun Fact](https://img.shields.io/badge/💀-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/yaIndigo.art-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/yaindigo.art)
 
