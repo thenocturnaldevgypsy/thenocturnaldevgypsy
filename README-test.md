@@ -72,12 +72,4 @@
 <img width="470" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=100" />
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                174 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-🌆 Daytime                2993 commits        ██████████░░░░░░░░░░░░░░░   41.34 % 
-🌃 Evening                3616 commits        ████████████░░░░░░░░░░░░░   49.94 % 
-🌙 Night                  457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-```
 <!--END_SECTION:waka-->
