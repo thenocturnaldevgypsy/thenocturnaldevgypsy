@@ -24,45 +24,45 @@
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
 ## ![SECTION My Tech Stack](https://img.shields.io/badge/🖥️-My%20Tech%20Stack-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![WindowsOS](https://img.shields.io/badge/WindowsOS-+++-%2300416a?logo=windows&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![macOS](https://img.shields.io/badge/macOS-+++-%2300416a?logo=apple&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-++-%2300416a?logo=ubuntu&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Dynamic365](https://img.shields.io/badge/Dynamic365-++-%2300416a?logo=microsoft-dynamics&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![AWS](https://img.shields.io/badge/AWS-++-%2300416a?logo=amazon-web-services&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![AlibabaCloud](https://img.shields.io/badge/AlibabaCloud-++-%2300416a?logo=alibaba-cloud&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-+++-%2300416a?logo=firefox&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-++-0A66C2.svg?logo=vsc&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-++-%2300416a?logo=eclipse&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Dreamweaver](https://img.shields.io/badge/Dreamweaver-+++-%2300416a?logo=adobedreamweaver&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-+-%2300416a?logo=pascal&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![C](https://img.shields.io/badge/C-+-%2300416a?logo=c&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![C++](https://img.shields.io/badge/C++-++-%2300416a?logo=cplusplus&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Java](https://img.shields.io/badge/Java-++-%2300416a?logo=openjdk&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![HTML](https://img.shields.io/badge/HTML-+++-%2300416a?logo=html5&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![CSS](https://img.shields.io/badge/CSS-+++-%2300416a?logo=css3&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-++-%2300416a?logo=markdown&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-++-%2300416a?logo=javascript&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-++-%2300416a?logo=bootstrap&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-++-%2300416a?logo=chartdotjs&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-++-%2300416a?logo=jquery&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-++-%2300416a?logo=node.js&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![ASP](https://img.shields.io/badge/ASP-++-%2300416a?logo=classic-asp&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![PHP](https://img.shields.io/badge/PHP-++-%2300416a?logo=php&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-++-%2300416a?logo=mysql&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-++-%2300416a?logo=microsoft-sql-server&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-++-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Jira](https://img.shields.io/badge/Jira-+++-%2300416a?logo=jira&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Asana](https://img.shields.io/badge/Asana-+++-%2300416a?logo=asana&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Trello](https://img.shields.io/badge/Trello-++-%2300416a?logo=trello&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Notion](https://img.shields.io/badge/Notion-++-%2300416a?logo=notion&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-++-%2300416a?logo=confluence&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Wikia](https://img.shields.io/badge/Wikia-++-%2300416a?logo=wikipedia&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Canva](https://img.shields.io/badge/Canva-+++-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Figma](https://img.shields.io/badge/Figma-++-%2300416a?logo=figma&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-++-%2300416a?logo=adobephotoshop&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-++-%2300416a?logo=openai&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Bing AI](https://img.shields.io/badge/Bing_AI-++-%2300416a?logo=microsoft&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![WindowsOS](https://img.shields.io/badge/WindowsOS-☆☆☆-%2300416a?logo=windows&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![macOS](https://img.shields.io/badge/macOS-☆☆☆-%2300416a?logo=apple&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-☆☆-%2300416a?logo=ubuntu&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Dynamic365](https://img.shields.io/badge/Dynamic365-☆☆-%2300416a?logo=microsoft-dynamics&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![AWS](https://img.shields.io/badge/AWS-☆☆-%2300416a?logo=amazon-web-services&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![AlibabaCloud](https://img.shields.io/badge/AlibabaCloud-☆☆-%2300416a?logo=alibaba-cloud&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-☆☆☆-%2300416a?logo=firefox&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-☆☆-0A66C2.svg?logo=vsc&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-☆☆-%2300416a?logo=eclipse&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-☆☆☆-%2300416a?logo=adobedreamweaver&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-☆☆-%2300416a?logo=pascal&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![C](https://img.shields.io/badge/C-☆☆-%2300416a?logo=c&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![C++](https://img.shields.io/badge/C++-☆☆-%2300416a?logo=cplusplus&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Java](https://img.shields.io/badge/Java-☆☆-%2300416a?logo=openjdk&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![HTML](https://img.shields.io/badge/HTML-☆☆☆-%2300416a?logo=html5&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![CSS](https://img.shields.io/badge/CSS-☆☆☆-%2300416a?logo=css3&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-☆☆-%2300416a?logo=markdown&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-☆☆☆-%2300416a?logo=javascript&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-☆☆-%2300416a?logo=bootstrap&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-☆☆-%2300416a?logo=chartdotjs&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-☆☆-%2300416a?logo=jquery&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-☆☆-%2300416a?logo=node.js&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![ASP](https://img.shields.io/badge/ASP-☆☆-%2300416a?logo=classic-asp&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![PHP](https://img.shields.io/badge/PHP-☆☆-%2300416a?logo=php&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![mySQL](https://img.shields.io/badge/mySQL-☆☆-%2300416a?logo=mysql&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-☆☆-%2300416a?logo=microsoft-sql-server&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-☆☆-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Jira](https://img.shields.io/badge/Jira-☆☆☆-%2300416a?logo=jira&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Asana](https://img.shields.io/badge/Asana-☆☆☆-%2300416a?logo=asana&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Trello](https://img.shields.io/badge/Trello-☆☆-%2300416a?logo=trello&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Notion](https://img.shields.io/badge/Notion-☆☆-%2300416a?logo=notion&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-☆☆-%2300416a?logo=confluence&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Wikia](https://img.shields.io/badge/Wikia-☆☆-%2300416a?logo=wikipedia&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Canva](https://img.shields.io/badge/Canva-☆☆☆-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Figma](https://img.shields.io/badge/Figma-☆☆-%2300416a?logo=figma&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-☆☆-%2300416a?logo=adobephotoshop&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-☆☆-%2300416a?logo=openai&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Bing AI](https://img.shields.io/badge/Bing_AI-☆☆-%2300416a?logo=microsoft&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Canva AI](https://img.shields.io/badge/Canva_AI-☆☆-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 ## ![SECTION My active public repos at Github](https://img.shields.io/badge/🚀-My%20active%20public%20repos%20at%20Github-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 <a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
@@ -72,16 +72,4 @@
 <img width="470" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=100" />
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-🌆 Daytime                323 commits         ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌃 Evening                376 commits         █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌙 Night                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-```
-
-
-
- Last Updated on 09/15/2024 12:02:33 UTC
 <!--END_SECTION:waka-->
