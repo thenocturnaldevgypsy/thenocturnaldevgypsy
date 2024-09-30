@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-☆☆-0A66C2.svg?logo=vsc&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-☆☆-%2300416a?logo=eclipse&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-☆☆☆-%2300416a?logo=adobedreamweaver&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-☆☆-%2300416a?logo=pascal&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-☆-%2300416a?logo=pascal&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![C](https://img.shields.io/badge/C-☆☆-%2300416a?logo=c&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![C++](https://img.shields.io/badge/C++-☆☆-%2300416a?logo=cplusplus&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![Java](https://img.shields.io/badge/Java-☆☆-%2300416a?logo=openjdk&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
