@@ -23,7 +23,7 @@ jobs:
             SHOW_LOC_CHART: "False"
             SHOW_OS: "True"
             SHOW_UPDATED_DATE: "True"
-            UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
+            UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
             SHOW_TOTAL_CODE_TIME: "False"
             SHOW_PROFILE_VIEWS: "False"
             SHOW_COMMIT: "True"
@@ -33,3 +33,4 @@ jobs:
             SHOW_LANGUAGE_PER_REPO: "False"
             SHOW_SHORT_INFO: "False"
             LOCALE: "en"
+            SHOW_TIMEZONE: "False"
