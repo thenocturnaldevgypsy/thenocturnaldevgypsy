@@ -67,7 +67,7 @@
 <img width="470" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=100" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2019%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -99,5 +99,5 @@ Mac                      26 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 06/10/2024 11:34:53 UTC
+ Last Updated on 06/10/2024 11:42:23 UTC
 <!--END_SECTION:waka-->
