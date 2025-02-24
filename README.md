@@ -1,4 +1,10 @@
-## Hi there 👋
+## <img src="md_assets/logo.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg)
+
+<img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%20%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=eye&logoColor=white&labelColor=2471AE&color=1A1A1A" /><br>
+
+- :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`. 
+
+- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges)). Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) ATM too.
 
 <!--
 **thenocturnaldevgypsy/thenocturnaldevgypsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
