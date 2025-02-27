@@ -2,7 +2,7 @@
 
 <img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%20%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=eye&logoColor=white&labelColor=2471AE&color=1A1A1A" /><br>
 
-- :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`. 
+- :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies). 
 
 - 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges)). Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) ATM too.
 
