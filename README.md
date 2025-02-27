@@ -4,7 +4,7 @@
 
 - :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies). 
 
-- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code_challenges)). Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy?tab=projects) ATM too.
+- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code_challenges)) and GitHub Projects ATM.
 
 <!-- - 🚀 : Open Source Projects Authored and Maintained: 
    - https://github.com/thenocturnaldevgypsy-io/nightfall-bootstrap-template-personal
@@ -26,18 +26,18 @@
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-2471AE?logo=thumbsdown&logoColor=white&labelColor=2471AE)
 
-↦ 🔥 : GitHub Support is done unflagging my original account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) last January 14, 2025 (it got flagged for no reason last October 18, 2024), and GitHub didn't supported me with merging my temporary account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io). Currently migrating my repos, projects and other stuffs that I can salvage back here. :smiling_face_with_tear:
+↦ 🔥 : GitHub Support is done unflagging my original account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) last January 14, 2025 (it got flagged for no reason last October 18, 2024), and GitHub didn't supported me with merging my temporary account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io). Currently doing repo chores after the migration. :smiling_face_with_tear:
 
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-2471AE?logo=rocket&logoColor=white&labelColor=2471AE)
 
-[![Website](https://custom-icon-badges.demolab.com/badge/-www.thenocturnaldevgypsy.io-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.thenocturnaldevgypsy.io)
+[![Website](https://custom-icon-badges.demolab.com/badge/-www.thenocturnaldevgypsy.work-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.thenocturnaldevgypsy.work)
 [![LinkedIn](https://img.shields.io/badge/-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/thenocturnaldevgypsy-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/thenocturnaldevgypsy)
-[![GitHub](https://img.shields.io/badge/-/thenocturnaldevgypsy--io-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://github.com/thenocturnaldevgypsy-io)
+[![GitHub](https://img.shields.io/badge/-/thenocturnaldevgypsy-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://github.com/thenocturnaldevgypsy)
 [![Instagram](https://img.shields.io/badge/-/nocturnal.indigo-%2300416a?logo=instagram&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.instagram.com/nocturnal.indigo/)
 [![Mastodon](https://img.shields.io/badge/-/@TheNocturnalDevGypsy-%2300416a?logo=mastodon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://mastodon.social/@TheNocturnalDevGypsy)
 [![X](https://img.shields.io/badge/-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
-[![Email](https://custom-icon-badges.demolab.com/badge/-i.am.abby@thenocturnaldevgypsy.io-24292e?logo=mail&logoColor=white&labelColor=00416a)](mailto:i.am.abby@thenocturnaldevgypsy.io)
+[![Email](https://custom-icon-badges.demolab.com/badge/-hi@thenocturnaldevgypsy.work-24292e?logo=mail&logoColor=white&labelColor=00416a)](mailto:hi@thenocturnaldevgypsy.work)
 
 ## ![SECTION Support me!](https://custom-icon-badges.demolab.com/badge/-Support%20me!-2471AE?logo=heart-fill&logoColor=white&labelColor=2471AE)
 Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NFTs or (maybe) just simply buy me a ☕ at **Ko-Fi**? :smiling_face_with_tear:
