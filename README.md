@@ -4,7 +4,7 @@
 
 - :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies). 
 
-- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code_challenges)) and GitHub Projects ATM.
+- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and GitHub Projects ATM.
 
 <!-- - 🚀 : Open Source Projects Authored and Maintained: 
    - https://github.com/thenocturnaldevgypsy-io/nightfall-bootstrap-template-personal
