@@ -3,16 +3,14 @@
 <img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%20%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=eye&logoColor=white&labelColor=2471AE&color=1A1A1A" /><br>
 
 - :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies). 
-
 - 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and GitHub Projects ATM.
+- 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 <!-- - 🚀 : Open Source Projects Authored and Maintained: 
    - https://github.com/thenocturnaldevgypsy-io/nightfall-bootstrap-template-personal
    - https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio 
 
 - 💡 : Planning to start the following open source projects by 2025: Static Page Generator, Font Library for Crypto, Link in Bio CMS. -->
-
-- 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 <!-- <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
