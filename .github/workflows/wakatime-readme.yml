@@ -1,4 +1,4 @@
-name: Wakatime Readme
+name: Wakatime-Readme
 
 on:
    workflow_dispatch:
