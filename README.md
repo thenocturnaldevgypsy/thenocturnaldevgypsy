@@ -29,7 +29,7 @@
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-2471AE?logo=rocket&logoColor=white&labelColor=2471AE)
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-www.thenocturnaldevgypsy.work-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.thenocturnaldevgypsy.work)
-[![LinkedIn](https://img.shields.io/badge/-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-/in/abegail--torrendon-%2300416a?logo=linkedin-white&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/thenocturnaldevgypsy-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/thenocturnaldevgypsy)
 [![GitHub](https://img.shields.io/badge/-/thenocturnaldevgypsy-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://github.com/thenocturnaldevgypsy)
 [![Instagram](https://img.shields.io/badge/-/nocturnal.indigo-%2300416a?logo=instagram&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.instagram.com/nocturnal.indigo/)
