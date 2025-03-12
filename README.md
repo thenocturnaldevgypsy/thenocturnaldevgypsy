@@ -3,16 +3,14 @@
 <img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%20%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=eye&logoColor=white&labelColor=2471AE&color=1A1A1A" /><br>
 
 - :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies). 
-
 - 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and GitHub Projects ATM.
+- 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 <!-- - 🚀 : Open Source Projects Authored and Maintained: 
    - https://github.com/thenocturnaldevgypsy-io/nightfall-bootstrap-template-personal
    - https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio 
 
 - 💡 : Planning to start the following open source projects by 2025: Static Page Generator, Font Library for Crypto, Link in Bio CMS. -->
-
-- 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 <!-- <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -68,10 +66,10 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                428 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.50 % 
-🌆 Daytime                967 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.98 % 
-🌃 Evening                1485 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.90 % 
-🌙 Night                  842 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.62 % 
+🌞 Morning                433 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.54 % 
+🌆 Daytime                971 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.88 % 
+🌃 Evening                1506 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.14 % 
+🌙 Night                  842 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.44 % 
 ```
 
 
@@ -79,12 +77,12 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 
 ```text
 💻 Operating System: 
-Mac                      40 hrs 59 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   89.07 % 
-Windows                  5 hrs 2 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.93 % 
+Mac                      34 hrs 12 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.14 % 
+Windows                  12 hrs 33 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.86 % 
 ```
 
 
- Last Updated on 10/03/2025 10:20:25 UTC
+ Last Updated on 12/03/2025 09:22:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
