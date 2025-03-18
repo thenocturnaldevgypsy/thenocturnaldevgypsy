@@ -77,12 +77,12 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 
 ```text
 💻 Operating System: 
-Windows                  22 hrs 3 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.90 % 
-Mac                      14 hrs 9 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.10 % 
+Windows                  21 hrs 19 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   75.46 % 
+Mac                      6 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.54 % 
 ```
 
 
- Last Updated on 18/03/2025 17:19:35 UTC
+ Last Updated on 18/03/2025 18:29:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
