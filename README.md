@@ -66,11 +66,10 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-🌆 Daytime    204 commits    █████░░░░░░░░░░░░░░░░░░░░   21.5% 
-🌃 Evening    463 commits    ████████████░░░░░░░░░░░░░   48.79% 
-🌙 Night      190 commits    █████░░░░░░░░░░░░░░░░░░░░   20.02%
-
+🌞 Morning                459 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.39 % 
+🌆 Daytime                1063 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.37 % 
+🌃 Evening                1624 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.29 % 
+🌙 Night                  885 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.95 % 
 ```
 
 
@@ -78,13 +77,12 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 
 ```text
 💻 Operating System: 
-Mac                      15 hrs 36 mins      ██████████████░░░░░░░░░░░   56.74% 
-Windows                  11 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   43.26%
-
+Mac                      15 hrs 36 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.74 % 
+Windows                  11 hrs 53 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.26 % 
 ```
 
 
- Last Updated on 01/04/2025
+ Last Updated on 01/04/2025 18:50:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
