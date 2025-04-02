@@ -71,6 +71,8 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 
 > 📦 515.3 kB Used in GitHub's Storage 
  > 
+> 🏆 298 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -143,7 +145,7 @@ Batchfile                1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy/master/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 19:39:22 UTC
+ Last Updated on 02/04/2025 20:22:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
