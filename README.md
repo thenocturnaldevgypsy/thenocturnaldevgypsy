@@ -63,7 +63,7 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 <img width="295" valign="top" align="center" src="https://gh-rms.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=10"><img valign="top" align="center" width="475" src="https://gh-rss.vercel.app/?user=thenocturnaldevgypsy&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
@@ -71,7 +71,7 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 
 > 📦 515.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 298 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -145,7 +145,7 @@ Batchfile                1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy/master/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2025 10:22:05 UTC
+ Last Updated on 03/04/2025 10:45:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
