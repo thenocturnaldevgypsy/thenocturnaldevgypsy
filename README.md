@@ -17,10 +17,9 @@
 </details> -->
 
 <!-- ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-2471AE?logo=paintbrush&logoColor=white&labelColor=2471AE)
-↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations + Jewelry and Trinket Accessories too! 
+↦ 🎨 : I do traditional Ink and Watercolour Illustrations + Jewelry and Trinket Accessories too! 
 
-[![Website](https://custom-icon-badges.demolab.com/badge/-www.yaindigo.art-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.yaindigo.art)
-[![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/yaindigo.art-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/yaindigo.art) -->
+[![Website](https://custom-icon-badges.demolab.com/badge/Website-www.indigomeokreativ.work-ffffff?logo=globe&logoColor=ffffff&labelColor=00416a&color=333333)](https://www.indigomeokreativ.work) [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/Link%20in%20Bio-beacons.ai/indigomeokreativ-ffffff?logo=ai-model&logoColor=ffffff&labelColor=00416a&color=333333)](https://beacons.ai/indigomeokreativ) [![Uncut NFT Shop](https://custom-icon-badges.demolab.com/badge/Uncut%20NFT%20Shop-/user/4296162745-ffffff?logo=file-binary&logoColor=ffffff&labelColor=00416a&color=333333)](https://uncut.network/user/4296162745) [![Ko-fi Shop](https://img.shields.io/badge/Ko--Fi%20Shop-/indigomeokreativ-ffffff?logo=kofi&logoColor=ffffff&labelColor=00416a&color=333333)](https://ko-fi.com/indigomeokreativ) -->
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-2471AE?logo=thumbsdown&logoColor=white&labelColor=2471AE)
 
