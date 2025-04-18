@@ -3,7 +3,7 @@
 ![STATUS](https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK%20%7C%20AVAILABLE-ffffff?logo=eye&logoColor=ffffff&labelColor=2471AE&color=333333)
 
 - :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies).
-- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Generative AI, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and GitHub Projects ATM.
+- 🧪 : Currently furnishing my public repos, tech portfolio here and `else(web)where`, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and integrating GitHub Projects im my tasks here, learning more about Crypto & NFTs (`mostly WAX Blockchain`), Generative AI and exploring AI Text to Image Prompts ATM.
 - 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 <!-- - 🚀 : Open Source Projects Authored and Maintained: 
@@ -21,9 +21,9 @@
 
 [![Website](https://custom-icon-badges.demolab.com/badge/Website-www.indigomeokreativ.work-ffffff?logo=globe&logoColor=ffffff&labelColor=00416a&color=333333)](https://www.indigomeokreativ.work) [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/Link%20in%20Bio-beacons.ai/indigomeokreativ-ffffff?logo=ai-model&logoColor=ffffff&labelColor=00416a&color=333333)](https://beacons.ai/indigomeokreativ) [![Uncut NFT Shop](https://custom-icon-badges.demolab.com/badge/Uncut%20NFT%20Shop-/user/4296162745-ffffff?logo=file-binary&logoColor=ffffff&labelColor=00416a&color=333333)](https://uncut.network/user/4296162745) [![Ko-fi Shop](https://img.shields.io/badge/Ko--Fi%20Shop-/indigomeokreativ-ffffff?logo=kofi&logoColor=ffffff&labelColor=00416a&color=333333)](https://ko-fi.com/indigomeokreativ) -->
 
-## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-2471AE?logo=thumbsdown&logoColor=white&labelColor=2471AE)
+<!-- ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-2471AE?logo=thumbsdown&logoColor=white&labelColor=2471AE)
 
-↦ 🔥 : GitHub Support is done unflagging my original account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) last January 14, 2025 (it got flagged for no reason last October 18, 2024), and GitHub didn't supported me with merging my temporary account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io). Currently doing repo chores after the migration. :smiling_face_with_tear:
+↦ 🔥 : GitHub Support is done unflagging my original account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) last January 14, 2025 (it got flagged for no reason last October 18, 2024), and GitHub didn't supported me with merging my temporary account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io). Currently doing repo chores after the migration. :smiling_face_with_tear: -->
 
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-2471AE?logo=rocket&logoColor=white&labelColor=2471AE)
 
