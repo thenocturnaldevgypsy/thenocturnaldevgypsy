@@ -3,7 +3,7 @@
 ![STATUS](https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK%20%7C%20AVAILABLE-ffffff?logo=eye&logoColor=ffffff&labelColor=2471AE&color=333333)
 
 - :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies).
-- 🧪 : Currently furnishing my public repos, tech portfolio here and `else(web)where`, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and integrating GitHub Projects im my tasks here, learning more about Crypto & NFTs (`mostly WAX Blockchain`), Generative AI and exploring AI Text to Image Prompts ATM.
+- 🧪 : Currently polishing my public repos, tech portfolio here and `else(web)where`, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and integrating GitHub Projects im my tasks here, learning more about Crypto & NFTs (`mostly WAX Blockchain`), Generative AI and exploring AI Text to Image Prompts ATM.
 - 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 <!-- - 🚀 : Open Source Projects Authored and Maintained: 
