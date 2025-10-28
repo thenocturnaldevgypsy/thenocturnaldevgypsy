@@ -1,4 +1,4 @@
-<img src="md_assets/logo.png" height="30"/> <img src="md_assets/octocat-jumping.gif" height="31"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg)
+<img src="md_assets/logo.png" height="30"/> <img src="md_assets/octocat-jumping.gif" height="31"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2001))](https://git.io/typing-svg)
 
 ![STATUS](https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK%20%7C%20AVAILABLE-ffffff?logo=eye&logoColor=ffffff&labelColor=2471AE&color=333333)
 
