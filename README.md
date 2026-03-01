@@ -63,11 +63,12 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos, you can follow me, hire me 
 
 ```text
 💻 Operating System: 
-Windows                  15 hrs 1 min        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Windows                  15 hrs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   87.72 % 
+Linux                    2 hrs 6 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.28 % 
 ```
 
 
- Last Updated on 01/03/2026 17:25:37 UTC
+ Last Updated on 01/03/2026 18:38:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
